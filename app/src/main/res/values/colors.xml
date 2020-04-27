@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorDarkGrey">#6B6B6D</color>
+    <color name="colorDarkGrey2">#393836</color>
+    <color name="colorDarkGrey3">#4D4A48</color>
+    <color name="colorGreyWhile">#D6D6D6</color>
+    <color name="colorGrey">#6A6864</color>
+    <color name="colorOrange">#FF9F0A</color>
+    <color name="colorWhile">#FFFFFF</color>
+</resources>
+
